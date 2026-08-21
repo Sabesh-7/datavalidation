@@ -1,0 +1,21 @@
+{
+  "dataset_name": "MoSPI Periodic Labour Force Survey (PLFS)",
+  "zip_source": "E:\\Data in CSV.zip",
+  "person_records_sampled": 50000,
+  "household_records_sampled": 50000,
+  "features_used": [
+    "Age",
+    "Years_Formal_Education",
+    "Principal_Status_Code",
+    "CWS_Earnings_Salaried",
+    "CWS_Earnings_SelfEmployed"
+  ],
+  "mean_age": 30.68996,
+  "std_age": 20.022249948701074,
+  "mean_education_years": 6.00442,
+  "mean_monthly_expenditure": 13339.2489,
+  "max_monthly_expenditure": 153917.0,
+  "model_type": "Unsupervised Isolation Forest Anomaly Estimator",
+  "contamination_rate": 0.05,
+  "status": "TRAINED_AND_SAVED"
+}
