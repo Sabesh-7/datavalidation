@@ -20,6 +20,29 @@ This platform introduces an **automated, hybrid 3-engine validation architecture
 
 ---
 
+## 🔮 Future Integration Plan with Main MoSPI Survey Platform
+
+This Data Validation Platform is architected as an independent, modular microservice system. As part of our technical roadmap, this validation engine will be seamlessly integrated into the primary **MoSPI Enterprise Survey Platform Architecture**.
+
+🔗 **Main MoSPI Survey Platform Repository:** [MoSPI Survey System (test branch)](https://github.com/MOHITH2511/mospi-survey-system/tree/test)
+
+### Strategic Integration Goals:
+1. **Real-Time CAPI Streaming Sync**: Direct ingestion of live field mobile app responses via Kafka event streams.
+2. **Unified Microdata Data Lake**: Cleaning survey responses prior to entering the National Statistical Data Lake.
+3. **Government SSO & Security**: Native JanParichay Single Sign-On (SSO) and eSign digital signature authentication.
+
+---
+
+## 📹 Prototype Demo Video
+
+Watch our full working prototype demonstration showcasing real-time PLFS microdata evaluation, sub-second custom CSV batch processing, Benford's Law audit charts, and Gemma 3:4B explainable AI briefings:
+
+[![Watch Demo Video](https://img.shields.io/badge/🎥%20Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://github.com/MOHITH2511/mospi-hsd-data-validation)
+
+> 💡 *A step-by-step scene breakdown and presentation speaking script for panel recordings is available in [`docs/HSD_HANDS_ON_TRAINING_GUIDE.md`](docs/HSD_HANDS_ON_TRAINING_GUIDE.md).*
+
+---
+
 ## 🏛️ Logical Architecture Flow
 
 ```mermaid
@@ -186,3 +209,9 @@ Developed for the **Ministry of Statistics and Programme Implementation (MoSPI)*
 
 ## 📄 License
 This project is open-source and developed in compliance with Government of India Digital Service Standards & DPDP Act 2023 guidelines.
+
+---
+
+<p align="center">
+  Made with ❤️ by <b>Team CODE SENTINELS</b> | Bannari Amman Institute of Technology
+</p>
