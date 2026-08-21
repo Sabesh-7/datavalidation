@@ -33,15 +33,11 @@ This Data Validation Platform is architected as an independent, modular microser
 
 ---
 
-## 📹 Working Prototype Demo Video
+## 📹 Prototype Demo Video
 
 Watch our full working prototype demonstration showcasing real-time PLFS microdata evaluation, sub-second custom CSV batch processing, Benford's Law audit charts, and Gemma 3:4B explainable AI briefings:
 
-https://github.com/user-attachments/assets/fe2af6ef-a3bd-4835-bc9e-510e199a19c1
-
-[![Watch Demo Video](https://img.shields.io/badge/🎥%20Watch-Demo%20Video-red?style=for-the-badge&logo=github)](https://github.com/user-attachments/assets/fe2af6ef-a3bd-4835-bc9e-510e199a19c1)
-
-> 💡 *A step-by-step scene breakdown and presentation speaking script for panel recordings is available in [`docs/HSD_HANDS_ON_TRAINING_GUIDE.md`](docs/HSD_HANDS_ON_TRAINING_GUIDE.md).*
+<video src="https://github.com/user-attachments/assets/fe2af6ef-a3bd-4835-bc9e-510e199a19c1" controls width="100%"></video>
 
 ---
 
