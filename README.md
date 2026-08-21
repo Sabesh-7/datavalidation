@@ -37,6 +37,10 @@ This Data Validation Platform is architected as an independent, modular microser
 
 Watch our full working prototype demonstration showcasing real-time PLFS microdata evaluation, sub-second custom CSV batch processing, Benford's Law audit charts, and Gemma 3:4B explainable AI briefings:
 
+[▶️ Click Here to Watch Prototype Demo Video](https://github.com/user-attachments/assets/fe2af6ef-a3bd-4835-bc9e-510e199a19c1)
+
+<br/>
+
 
 
 ---
