@@ -195,13 +195,13 @@ npm run dev
 
 Developed for the **Ministry of Statistics and Programme Implementation (MoSPI)** by:
 
-**Team CODE SENTINELS**  
+**Team CATALYST CREW**  
 *Bannari Amman Institute of Technology*
 
-- **Yogeswaran V** – *AI Engineer*
+- **Jeeva S** – *Frontend Developer*
 - **Mohith S** – *Backend Developer*
-- **Sabesh Pranith J** – *AI Engineer*
-- **Thithiksaa S K** – *Frontend Developer*
+- **Sabeshpranith J** – *AI Engineer*
+- **Mohammed Sajith M** – *AI Engineer*
 
 ---
 
@@ -211,5 +211,5 @@ This project is open-source and developed in compliance with Government of India
 ---
 
 <p align="center">
-  Made with ❤️ by <b>Team CODE SENTINELS</b> | Bannari Amman Institute of Technology
+  Made with ❤️ by <b>Team CATALYST CREW</b> | Bannari Amman Institute of Technology
 </p>
