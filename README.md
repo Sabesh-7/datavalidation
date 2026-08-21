@@ -177,10 +177,10 @@ Developed for the **Ministry of Statistics and Programme Implementation (MoSPI)*
 **Team CODE SENTINELS**  
 *Bannari Amman Institute of Technology*
 
-- **Yogeswaran V** – *AI Engineer*
+- **Jeeva S** – *Frontend Developer*
 - **Mohith S** – *Backend Developer*
 - **Sabesh Pranith J** – *AI Engineer*
-- **Thithiksaa S K** – *Frontend Developer*
+- **Saajith** – *Frontend Developer*
 
 ---
 
